@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: Korbyer's Blog
 subtitle: "A simple, but solid blog."
-email: blcentra@gmail.com
-name: Ben Centra
+email: sutang2135@naver.com
+name: Korbyer Park
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -53,6 +53,9 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+  - cat : daily
+    desc: "My Daily Life's Posts - travel, food, and so on."
 
 # Social icons and sharing options
 #
