@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily Posts"
+title:  "데일리 포스트 테스트"
 date:   2018-03-14 08:43:59
 author: Korbyer Park
 categories: Daily
